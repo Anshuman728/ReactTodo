@@ -25,3 +25,7 @@ Make sure you have the following installed on your machine:
 
 #### Node.js
 #### npm (Node Package Manager) or yarn
+
+# Installation
+1.Clone the repository
+   
