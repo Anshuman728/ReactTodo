@@ -27,5 +27,14 @@ Make sure you have the following installed on your machine:
 #### npm (Node Package Manager) or yarn
 
 # Installation
-1.Clone the repository
-   
+#### 1.Clone the repository
+https://github.com/Anshuman728/ReactTodo.git
+#### 2.Install dependencies:
+  npm install
+
+#### 3.Start the development server:
+   npm run dev
+
+
+
+
